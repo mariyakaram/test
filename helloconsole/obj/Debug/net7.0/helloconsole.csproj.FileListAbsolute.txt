@@ -1,0 +1,14 @@
+/Users/maria/Desktop/C # семинар/helloconsole/bin/Debug/net7.0/helloconsole
+/Users/maria/Desktop/C # семинар/helloconsole/bin/Debug/net7.0/helloconsole.deps.json
+/Users/maria/Desktop/C # семинар/helloconsole/bin/Debug/net7.0/helloconsole.runtimeconfig.json
+/Users/maria/Desktop/C # семинар/helloconsole/bin/Debug/net7.0/helloconsole.dll
+/Users/maria/Desktop/C # семинар/helloconsole/bin/Debug/net7.0/helloconsole.pdb
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.AssemblyInfoInputs.cache
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.AssemblyInfo.cs
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.dll
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/refint/helloconsole.dll
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.pdb
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/helloconsole.genruntimeconfig.cache
+/Users/maria/Desktop/C # семинар/helloconsole/obj/Debug/net7.0/ref/helloconsole.dll
