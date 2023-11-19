@@ -1,0 +1,14 @@
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/bin/Debug/net7.0/hello2
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/bin/Debug/net7.0/hello2.deps.json
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/bin/Debug/net7.0/hello2.runtimeconfig.json
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/bin/Debug/net7.0/hello2.dll
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/bin/Debug/net7.0/hello2.pdb
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.AssemblyInfoInputs.cache
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.AssemblyInfo.cs
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.dll
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/refint/hello2.dll
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.pdb
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/hello2.genruntimeconfig.cache
+/Users/maria/Desktop/C # семинар/helloconsole/hello2/obj/Debug/net7.0/ref/hello2.dll
